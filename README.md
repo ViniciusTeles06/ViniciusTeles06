@@ -1,14 +1,14 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020917,50:0A1628,100:0E346B&height=200&section=header&text=Vinícius%20Teles&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=56&descAlign=50&descColor=6BB5FF"/>
+
 <div align="center">
 
-# Olá, eu sou Vinícius Teles 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4FA3E0&center=true&vCenter=true&width=600&lines=Construindo+aplica%C3%A7%C3%B5es+web+modernas;React+%2B+Node.js+%2B+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)
 
-### Desenvolvedor Front-end / Full Stack &nbsp;|&nbsp; Ciência da Computação (3º período) — UNINASSAU
+<br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Construindo+aplica%C3%A7%C3%B5es+web+modernas;React+%2B+Node.js+%2B+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusTeles06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-teles-068a29360/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicciusteles13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusTeles06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=4FA3E0)](https://www.linkedin.com/in/vinicius-teles-068a29360/)
+[![Gmail](https://img.shields.io/badge/Gmail-0A1628?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vinicciusteles13@gmail.com)
 
 </div>
 
@@ -16,62 +16,64 @@
 
 ## 🧠 Sobre mim
 
-Estudante de Ciência da Computação, construindo aplicações **full stack** do front ao back — com foco em interfaces bem cuidadas (animações, dark mode, design system) e arquitetura organizada no back-end.
+Desenvolvedor full stack com foco em interfaces bem cuidadas e arquitetura organizada — do front ao back.
 
 - 🎯 Buscando vaga como **desenvolvedor júnior ou estágio**
-- 🚀 Atualmente evoluindo o FinTrack para um SaaS financeiro completo
-- 🧩 Estudando TypeScript avançado e Next.js (App Router, Server Actions)
-- 🤖 Explorando integração de IA em aplicações reais (NutriAI)
+- 🚀 Evoluindo o FinTrack para um SaaS financeiro completo
+- 🧩 Estudando TypeScript avançado e Next.js
+- 🤖 Integrando IA em aplicações reais com NutriAI
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tecnologias
 
-| Categoria | Tecnologias |
-|---|---|
-| **Front-end** | React 18 · Next.js · TypeScript · Tailwind CSS · React Native / Expo |
-| **Back-end** | Node.js · Express · PostgreSQL · Prisma |
-| **Bibliotecas** | React Router DOM v6 · Framer Motion · Lucide React |
-| **Ferramentas** | Git & GitHub · Vite 5 · Vercel · Figma |
+**Front-end**
 
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,figma&theme=dark"/>
+</div>
+
+**Back-end & Ferramentas**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,git,github,vercel&theme=dark"/>
+</div>
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 💰 FinTrack — Gestão Financeira Pessoal
-[![Deploy](https://img.shields.io/badge/Acessar_app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://fintrack-nine-virid.vercel.app/)
-[![Repo](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusTeles06/fintrack)
-
-Projeto final da disciplina de Desenvolvimento Web (UNINASSAU), em parceria com Heitor Luiz. Aplicação com 9 páginas e rotas protegidas:
-
-- 🔐 Autenticação com login e cadastro
-- 📊 Dashboard com gráfico de receitas x despesas (últimos 4 meses)
-- 📋 Transações com filtros, busca, edição e exclusão
-- 🎯 Metas financeiras com sistema de aporte
-- 🥧 Categorias com gráfico de pizza
-- 🌙 Dark/Light mode persistido em localStorage
-- 📱 Totalmente responsivo, com menu inferior no mobile
-
-`React 18` `React Router v6` `Framer Motion` `Context API` `Vite`
-
----
-
-### 🥗 NutriAI — Nutricionista com IA
-*Em desenvolvimento*
-
-App mobile (React Native + Expo) que atua como nutricionista inteligente, consumindo a API da Anthropic através de um backend serverless próprio na Vercel.
-
-`React Native` `Expo` `Vercel Serverless Functions` `IA`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 FinTrack — Gestão Financeira</h3>
+      <p>Aplicação web completa de controle financeiro pessoal, com 9 páginas e rotas protegidas.</p>
+      <ul>
+        <li>🔐 Autenticação com login e cadastro</li>
+        <li>📊 Dashboard com gráficos de receitas x despesas</li>
+        <li>📋 Transações com filtros, busca e edição</li>
+        <li>🎯 Metas com sistema de aporte</li>
+        <li>🌙 Dark/Light mode · 📱 Responsivo</li>
+      </ul>
+      <a href="https://fintrack-nine-virid.vercel.app/"><img src="https://img.shields.io/badge/Acessar_app-0E346B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <a href="https://github.com/ViniciusTeles06/fintrack"><img src="https://img.shields.io/badge/Ver_codigo-020917?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <br/><br/>
+      <code>React 18</code> <code>Vite</code> <code>Framer Motion</code> <code>Context API</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥗 NutriAI — Nutricionista com IA</h3>
+      <p><em>🚧 Em desenvolvimento</em></p>
+      <p>App mobile com nutricionista inteligente, consumindo a API da Anthropic via backend serverless próprio na Vercel.</p>
+      <ul>
+        <li>🤖 Chat com IA nutricionista</li>
+        <li>📱 Interface mobile nativa</li>
+        <li>🔒 Backend serverless seguro</li>
+      </ul>
+      <br/>
+      <code>React Native</code> <code>Expo</code> <code>Vercel Serverless</code> <code>IA</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -79,23 +81,15 @@ App mobile (React Native + Expo) que atua como nutricionista inteligente, consum
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ViniciusTeles06&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeles06&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ViniciusTeles06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1628&title_color=4FA3E0&icon_color=4FA3E0&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeles06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1628&title_color=4FA3E0&text_color=ffffff)
 
-![Streak](https://streak-stats.demolab.com/?user=ViniciusTeles06&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=ViniciusTeles06&theme=tokyonight&hide_border=true&background=0A1628&ring=4FA3E0&fire=4FA3E0&currStreakLabel=4FA3E0)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusTeles06&theme=tokyo-night&hide_border=true&bg_color=0A1628&color=4FA3E0&line=0E346B&point=4FA3E0)
 
 </div>
 
 ---
 
-## 🎓 Formação
-
-**Ciência da Computação** — UNINASSAU (em andamento, 3º período)
-
----
-
-<div align="center">
-
-📫 **vinicciusteles13@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vinicius-teles-068a29360/) &nbsp;·&nbsp; [GitHub](https://github.com/ViniciusTeles06)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E346B,50:0A1628,100:020917&height=120&section=footer"/>
