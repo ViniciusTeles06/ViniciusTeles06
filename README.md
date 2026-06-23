@@ -107,7 +107,8 @@ Desenvolvedor full stack com foco em interfaces bem cuidadas e arquitetura organ
 ![Streak](https://streak-stats.demolab.com/?user=ViniciusTeles06&theme=tokyonight&hide_border=true&background=0A1628&ring=4FA3E0&fire=4FA3E0&currStreakLabel=4FA3E0)
 
 
-<img src="https://raw.githubusercontent.com/ViniciusTeles06/ViniciusTeles06/output/github-snake-dark.svg" alt="Snake animation"/>
+
+<img src="https://raw.githubusercontent.com/ViniciusTeles06/ViniciusTeles06/output/github-snake-blue.svg" alt="Snake animation"/>
 
 </div>
 
