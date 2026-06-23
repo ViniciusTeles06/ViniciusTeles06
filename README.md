@@ -30,13 +30,29 @@ Desenvolvedor full stack com foco em interfaces bem cuidadas e arquitetura organ
 **Front-end**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,figma&theme=dark"/>
+
+![React](https://img.shields.io/badge/React_18-0A1628?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0A1628?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1628?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0A1628?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite_5-0A1628?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Figma](https://img.shields.io/badge/Figma-0A1628?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![React Native](https://img.shields.io/badge/React_Native-0A1628?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 </div>
 
 **Back-end & Ferramentas**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,git,github,vercel&theme=dark"/>
+
+![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0A1628?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1628?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-0A1628?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0A1628?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0A1628?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
 
 ---
@@ -81,12 +97,12 @@ Desenvolvedor full stack com foco em interfaces bem cuidadas e arquitetura organ
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ViniciusTeles06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1628&title_color=4FA3E0&icon_color=4FA3E0&text_color=ffffff)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeles06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1628&title_color=4FA3E0&text_color=ffffff)
 
 ![Streak](https://streak-stats.demolab.com/?user=ViniciusTeles06&theme=tokyonight&hide_border=true&background=0A1628&ring=4FA3E0&fire=4FA3E0&currStreakLabel=4FA3E0)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusTeles06&theme=tokyo-night&hide_border=true&bg_color=0A1628&color=4FA3E0&line=0E346B&point=4FA3E0)
+
 
 </div>
 
