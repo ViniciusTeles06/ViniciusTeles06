@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4FA3E0&center=true&vCenter=true&width=600&lines=Construindo+aplica%C3%A7%C3%B5es+web+modernas;React+%2B+Node.js+%2B+TypeScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4FA3E0&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;React+%2B+Node.js+%2B+TypeScript;Always+learning+something+new+%F0%9F%9A%80)
 
 <br/>
 
@@ -12,24 +12,13 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ViniciusTeles06&color=0E346B&style=for-the-badge&label=Visitas+ao+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=ViniciusTeles06&color=0E346B&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
-
-Desenvolvedor full stack com foco em interfaces bem cuidadas e arquitetura organizada — do front ao back.
-
-- 🎯 Buscando vaga como **desenvolvedor júnior ou estágio**
-- 🚀 Evoluindo o FinTrack para um SaaS financeiro completo
-- 🧩 Estudando TypeScript avançado e Next.js
-- 🤖 Integrando IA em aplicações reais com NutriAI
-
----
-
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 **Front-end**
 
@@ -45,7 +34,7 @@ Desenvolvedor full stack com foco em interfaces bem cuidadas e arquitetura organ
 
 </div>
 
-**Back-end & Ferramentas**
+**Back-end & Tools**
 
 <div align="center">
 
@@ -61,38 +50,38 @@ Desenvolvedor full stack com foco em interfaces bem cuidadas e arquitetura organ
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 FinTrack — Gestão Financeira</h3>
-      <p>Aplicação web completa de controle financeiro pessoal, com 9 páginas e rotas protegidas.</p>
-      <ul>
-        <li>🔐 Autenticação com login e cadastro</li>
-        <li>📊 Dashboard com gráficos de receitas x despesas</li>
-        <li>📋 Transações com filtros, busca e edição</li>
-        <li>🎯 Metas com sistema de aporte</li>
-        <li>🌙 Dark/Light mode · 📱 Responsivo</li>
-      </ul>
-      <a href="https://fintrack-nine-virid.vercel.app/"><img src="https://img.shields.io/badge/Acessar_app-0E346B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/ViniciusTeles06/fintrack"><img src="https://img.shields.io/badge/Ver_codigo-020917?style=for-the-badge&logo=github&logoColor=white"/></a>
-      <br/><br/>
-      <code>React 18</code> <code>Vite</code> <code>Framer Motion</code> <code>Context API</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🥗 NutriAI — Nutricionista com IA</h3>
-      <p><em>🚧 Em desenvolvimento</em></p>
-      <p>App mobile com nutricionista inteligente, consumindo a API da Anthropic via backend serverless próprio na Vercel.</p>
-      <ul>
-        <li>🤖 Chat com IA nutricionista</li>
-        <li>📱 Interface mobile nativa</li>
-        <li>🔒 Backend serverless seguro</li>
-      </ul>
-      <br/>
-      <code>React Native</code> <code>Expo</code> <code>Vercel Serverless</code> <code>IA</code>
-    </td>
-  </tr>
+ <tr>
+   <td width="50%" valign="top">
+     <h3>💰 FinTrack — Personal Finance Manager</h3>
+     <p>A complete personal finance web app with 9 pages and protected routes.</p>
+     <ul>
+       <li>🔐 Authentication with login and sign-up</li>
+       <li>📊 Dashboard with income vs expense charts</li>
+       <li>📋 Transactions with filters, search, and editing</li>
+       <li>🎯 Goals with contribution tracking</li>
+       <li>🌙 Dark/Light mode · 📱 Fully responsive</li>
+     </ul>
+     <a href="https://fintrack-nine-virid.vercel.app/"><img src="https://img.shields.io/badge/Live_App-0E346B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+     <a href="https://github.com/ViniciusTeles06/fintrack"><img src="https://img.shields.io/badge/Source_Code-020917?style=for-the-badge&logo=github&logoColor=white"/></a>
+     <br/><br/>
+     <code>React 18</code> <code>Vite</code> <code>Framer Motion</code> <code>Context API</code>
+   </td>
+   <td width="50%" valign="top">
+     <h3>🥗 NutriAI — AI-Powered Nutritionist</h3>
+     <p><em>🚧 In development</em></p>
+     <p>Mobile app with an intelligent nutritionist powered by the Anthropic API, served through a secure serverless backend on Vercel.</p>
+     <ul>
+       <li>🤖 AI nutritionist chat</li>
+       <li>📱 Native mobile interface</li>
+       <li>🔒 Secure serverless backend</li>
+     </ul>
+     <br/>
+     <code>React Native</code> <code>Expo</code> <code>Vercel Serverless</code> <code>AI</code>
+   </td>
+ </tr>
 </table>
 
 ---
@@ -101,12 +90,9 @@ Desenvolvedor full stack com foco em interfaces bem cuidadas e arquitetura organ
 
 <div align="center">
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeles06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1628&title_color=4FA3E0&text_color=ffffff)
 
 ![Streak](https://streak-stats.demolab.com/?user=ViniciusTeles06&theme=tokyonight&hide_border=true&background=0A1628&ring=4FA3E0&fire=4FA3E0&currStreakLabel=4FA3E0)
-
-
 
 <img src="https://raw.githubusercontent.com/ViniciusTeles06/ViniciusTeles06/output/github-snake-blue.svg" alt="Snake animation"/>
 
