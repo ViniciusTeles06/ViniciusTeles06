@@ -1,92 +1,231 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Vinícius Teles — Full-Stack Development and Software Engineering" />
+<img src="assets/hero.svg" width="100%" alt="Vinícius Teles — Software Developer"/>
 
 <br/>
 
-**Software developer focused on building useful products with clarity, craft and technical purpose.**
+### ENGINEERING IDEAS INTO DIGITAL EXPERIENCES.
 
-[Projects](#selected-work) · [Engineering focus](#engineering-focus) · [Connect](#connect)
+**Full-Stack Development · Software Engineering · Creative Web**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=6C8CFF&center=true&vCenter=true&width=650&lines=Designing+thoughtful+software+solutions.;Building+modern+full-stack+applications.;Exploring+interactive+web+experiences.;From+architecture+to+interface." alt="Animated developer introduction"/>
+
+<br/>
+
+[**EXPLORE MY WORK**](#03--selected-work) &nbsp;&nbsp;·&nbsp;&nbsp; [**CONNECT WITH ME**](#06--connect)
+
+<br/>
+
+<sub>BASED IN BRAZIL &nbsp; / &nbsp; BUILDING FOR THE WEB</sub>
 
 </div>
 
-<br/>
+---
 
-## An introduction
+## 01 / THE DEVELOPER
 
-I’m **Vinícius Teles**, a Computer Science student and software developer based in Brazil.
+### Software is more than code.
 
-I work across frontend and backend development, translating ideas into applications with thoughtful architecture, maintainable code and considered user experiences. My interests span **software engineering, web products and creative development** — with a growing focus on immersive interfaces.
+Sou **Vinícius Teles**, estudante de Ciência da Computação e desenvolvedor focado em construir aplicações modernas, funcionais e bem estruturadas.
 
-Rather than collecting technologies, I’m interested in understanding the engineering decisions that make software reliable, understandable and useful.
+Meu interesse está na interseção entre **engenharia de software, desenvolvimento full-stack e experiência do usuário**.
 
-## Selected work
+Gosto de explorar como boas decisões arquiteturais, interfaces bem projetadas e tecnologias modernas podem transformar ideias em produtos digitais reais.
 
-### 01 / Nexus Academy — Academic management platform
+Atualmente, meu principal projeto é o **Nexus Academy**, uma plataforma acadêmica full-stack.
 
-**Active project · Full-stack**
+<table>
+<tr>
+<td width="50%">
 
-An academic management system designed to bring key educational workflows into a coherent digital product. My current focus is on shaping its application structure, connecting frontend and backend, and developing a foundation that can evolve as the project grows.
+**CURRENTLY BUILDING**
 
-**Technology:** Python · Django · Django REST Framework · PostgreSQL · Next.js · TypeScript
+Nexus Academy
 
-**Engineering themes:** API design · Data modeling · Modular architecture · Product usability
+Plataforma de gerenciamento acadêmico.
 
-[Explore repository →](https://github.com/ViniciusTeles06/nexus-academy) · [Project website →](https://nexus-academy-woad.vercel.app/)
+</td>
+<td width="50%">
+
+**CURRENTLY EXPLORING**
+
+Creative Development
+
+GSAP · Three.js · WebGL
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 02 / FinTrack — Personal finance dashboard
+## 02 / THE TOOLKIT
 
-**Web application · Academic project**
+### Technologies behind the work.
 
-A personal finance experience for making income, expenses and financial goals easier to organize and understand. Built with an emphasis on readable information, clear interactions and responsive presentation.
+Ferramentas e tecnologias com as quais desenvolvo, estudo e experimento.
 
-**Technology:** React · Vite · JavaScript · Framer Motion
+**INTERFACE & FRONTEND**
 
-**Product themes:** Dashboard UI · Financial visualization · Responsive interfaces · Interaction design
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="Frontend technologies"/>
+</p>
 
-[Explore repository →](https://github.com/ViniciusTeles06/fintrack) · [Live project →](https://fintrack-nine-virid.vercel.app/)
+**BACKEND & DATA**
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,postgres&theme=dark" alt="Backend technologies"/>
+</p>
 
-## Engineering focus
+**ENGINEERING WORKFLOW**
 
-| Area | What I care about |
-| :--- | :--- |
-| **Product engineering** | Translating real problems into well-defined features and usable workflows. |
-| **Frontend development** | Responsive interfaces, accessibility, performance and meaningful motion. |
-| **Backend development** | Clear APIs, data modeling and maintainable application structure. |
-| **Software design** | Separation of concerns, readable code and decisions that support change. |
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" alt="Development tools"/>
+</p>
 
-## Tools & technologies
+**ON MY RADAR**
 
-**Working with**  
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `HTML` · `CSS` · `Tailwind CSS`  
-`Python` · `Django` · `Django REST Framework` · `Flask` · `PostgreSQL`  
-`Git` · `GitHub` · `VS Code` · `Vercel`
+`GSAP` &nbsp; `Three.js` &nbsp; `React Three Fiber` &nbsp; `WebGL` &nbsp; `Advanced UI Motion`
 
-**Exploring**  
-`GSAP` · `Three.js` · `React Three Fiber` · `WebGL` · `Creative Coding`
-
-<br/>
-
-## Currently building
-
-**Nexus Academy** is my primary ongoing project. Alongside it, I’m developing a stronger approach to interface craft — exploring how typography, movement and interaction can make digital experiences more memorable without compromising accessibility or performance.
-
-## Connect
-
-I’m open to conversations about software, collaboration and interesting digital products.
-
-[**GitHub**](https://github.com/ViniciusTeles06) &nbsp;·&nbsp; [**Nexus Academy**](https://github.com/ViniciusTeles06/nexus-academy) &nbsp;·&nbsp; [**FinTrack**](https://github.com/ViniciusTeles06/fintrack)
+> Learning new technologies with a focus on real-world applications, not just collecting tools.
 
 ---
+
+## 03 / SELECTED WORK
+
+### Products, systems & experiments.
+
+Projetos que representam minha evolução técnica e a maneira como transformo ideias em software.
+
+### 001 — NEXUS ACADEMY
+
+**Academic Management Platform**
+
+`ACTIVE DEVELOPMENT` &nbsp; · &nbsp; `FULL-STACK`
+
+Uma plataforma de gerenciamento acadêmico projetada para centralizar informações e processos educacionais em um único sistema.
+
+**THE IDEA**
+
+Simplificar a gestão de alunos, professores, turmas, disciplinas e processos acadêmicos com uma aplicação organizada, extensível e intuitiva.
+
+**ENGINEERING APPROACH**
+
+- API REST estruturada com Django REST Framework.
+- Persistência de dados utilizando PostgreSQL.
+- Interface web desenvolvida com Next.js e TypeScript.
+- Organização das responsabilidades entre backend e frontend.
+- Evolução incremental de funcionalidades e regras de negócio.
+
+**STACK**
+
+`Python` `Django` `DRF` `PostgreSQL` `Next.js` `TypeScript`
+
+[**VIEW SOURCE ↗**](https://github.com/ViniciusTeles06/nexus-academy) &nbsp; · &nbsp; [**WEB APPLICATION ↗**](https://nexus-academy-woad.vercel.app/)
+
+---
+
+### 002 — FINTRACK
+
+**Personal Finance Management**
+
+`WEB APPLICATION` &nbsp; · &nbsp; `FRONTEND`
+
+Aplicação web voltada ao controle financeiro pessoal, com foco em visualização de dados, organização de transações e experiência do usuário.
+
+**THE IDEA**
+
+Transformar informações financeiras em uma experiência clara, acessível e fácil de utilizar.
+
+**IMPLEMENTATION HIGHLIGHTS**
+
+- Dashboard com gráficos de receitas e despesas.
+- Gerenciamento e filtragem de transações.
+- Acompanhamento de metas financeiras.
+- Fluxos de autenticação e rotas protegidas.
+- Alternância entre temas claro e escuro.
+- Design responsivo.
+
+**STACK**
+
+`React` `Vite` `Framer Motion` `Context API`
+
+[**LIVE APPLICATION ↗**](https://fintrack-nine-virid.vercel.app/) &nbsp; · &nbsp; [**VIEW SOURCE ↗**](https://github.com/ViniciusTeles06/fintrack)
+
+---
+
+## 04 / ENGINEERING MINDSET
+
+### The way I approach development.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01 — STRUCTURE**
+
+Arquitetura organizada, responsabilidades claras e código que possa evoluir.
+
+</td>
+<td width="33%" valign="top">
+
+**02 — EXPERIENCE**
+
+Interfaces intuitivas, acessíveis e pensadas para pessoas reais.
+
+</td>
+<td width="33%" valign="top">
+
+**03 — EVOLUTION**
+
+Melhoria contínua por meio de estudo, prática e experimentação.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 05 / DEVELOPMENT ACTIVITY
+
+### Work in progress. Always evolving.
 
 <div align="center">
 
-<sub>VINÍCIUS TELES / BRAZIL</sub>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniciusTeles06&show_icons=true&hide_border=true&bg_color=111525&title_color=BCD3F6&text_color=F3F0E8&icon_color=5275FF" alt="GitHub statistics"/>
 
-**Build with intention. Improve through iteration.**
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeles06&layout=compact&hide_border=true&bg_color=111525&title_color=BCD3F6&text_color=F3F0E8" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ViniciusTeles06&hide_border=true&background=111525&ring=5275FF&fire=E6B84C&currStreakLabel=BCD3F6&sideLabels=F3F0E8&sideNums=F3F0E8&dates=9AAACB" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## 06 / CONNECT
+
+<div align="center">
+
+### HAVE SOMETHING IN MIND?
+
+**Let's turn an idea into something worth building.**
+
+Aberto a conexões, colaborações e oportunidades na área de desenvolvimento de software.
+
+<br/>
+
+[**LINKEDIN ↗**](https://www.linkedin.com/in/vinicius-teles-068a29360/) &nbsp; / &nbsp; [**GITHUB ↗**](https://github.com/ViniciusTeles06) &nbsp; / &nbsp; [**EMAIL ↗**](mailto:vinicciusteles13@gmail.com)
+
+<br/>
+
+---
+
+<sub>VINÍCIUS TELES © 2026</sub>
+
+<br/>
+
+<sub>BUILT WITH INTENTION. DRIVEN BY CURIOSITY.</sub>
 
 </div>
