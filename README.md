@@ -85,51 +85,46 @@ Experiências web com animações avançadas e interatividade.
 
 ## 02 / THE TOOLKIT
 
-<div align="center">
+<h3 align="center">FRONTEND & INTERFACE</h3>
 
-### TECHNOLOGIES BEHIND THE WORK.
-
-Uma seleção das ferramentas que utilizo e estudo durante meu desenvolvimento profissional.
-
-<br/>
-
-**FRONTEND & INTERFACE**
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&amp;theme=dark" alt="Frontend technologies"/>
-
-<br/><br/>
-
-**BACKEND & DATABASE**
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,postgres&amp;theme=dark" alt="Backend technologies"/>
-
-<br/><br/>
-
-**TOOLS & WORKFLOW**
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&amp;theme=dark" alt="Development tools"/>
-
-<br/><br/>
-
-**EXPLORING NEXT**
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GSAP-111525?style=for-the-badge&amp;logo=greensock&amp;logoColor=88CE02" alt="GSAP"/>
-<img src="https://img.shields.io/badge/THREE.JS-111525?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js"/>
-<img src="https://img.shields.io/badge/WEBGL-111525?style=for-the-badge&amp;logo=webgl&amp;logoColor=BCD3F6" alt="WebGL"/>
-
-<br/><br/>
-
-<sub>Technology is a tool. Building meaningful solutions is the goal.</sub>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/>
+      <br/>HTML5
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/>
+      <br/>CSS3
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/>
+      <br/>JavaScript
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/>
+      <br/>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
+      <br/>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/>
+      <br/>Next.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/>
+      <br/>Tailwind
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="45" alt="Vite"/>
+      <br/>Vite
+    </td>
+  </tr>
+</table>
 
 ---
 
