@@ -90,4 +90,3 @@ I’m open to conversations about software, collaboration and interesting digita
 **Build with intention. Improve through iteration.**
 
 </div>
-
