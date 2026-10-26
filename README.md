@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Vinícius Teles | Software Developer"/>
+<img src="assets/hero.svg" width="100%" alt="Vinícius Teles — Software Developer"/>
 
 <br/>
 
@@ -10,21 +10,21 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1100&color=7D9BFF&center=true&vCenter=true&width=750&lines=Designing+thoughtful+software+solutions.;Building+modern+full-stack+applications.;Exploring+immersive+web+experiences.;From+architecture+to+interface.;Turning+ideas+into+digital+products." alt="Developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=16&amp;duration=3200&amp;pause=1100&amp;color=7D9BFF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Designing+thoughtful+software+solutions.;Building+modern+full-stack+applications.;Exploring+immersive+web+experiences.;From+architecture+to+interface." alt="Animated introduction"/>
 
 <br/><br/>
 
 <a href="https://github.com/ViniciusTeles06?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-244AE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/>
+  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-244AE2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore projects"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/vinicius-teles-068a29360/">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-151C33?style=for-the-badge&logo=linkedin&logoColor=BCD3F6" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-111525?style=for-the-badge&amp;logo=linkedin&amp;logoColor=BCD3F6" alt="Connect on LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ViniciusTeles06&label=PROFILE+VIEWS&color=244AE2&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ViniciusTeles06&amp;label=PROFILE+VIEWS&amp;color=244AE2&amp;style=flat-square" alt="Profile views"/>
 
 <br/>
 
@@ -61,7 +61,7 @@ Plataforma full-stack de gerenciamento acadêmico.
 `Django` · `Next.js` · `PostgreSQL`
 
 <a href="https://github.com/ViniciusTeles06/nexus-academy">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-244AE2?style=flat-square&logo=github&logoColor=white" alt="Explore Nexus Academy"/>
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-244AE2?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore Nexus Academy"/>
 </a>
 
 </td>
@@ -75,7 +75,7 @@ Experiências web com animações avançadas e interatividade.
 
 `GSAP` · `Three.js` · `WebGL`
 
-<img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-151C33?style=flat-square&logo=bookstack&logoColor=BCD3F6" alt="Continuous learning"/>
+<img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-151C33?style=flat-square&amp;logoColor=BCD3F6" alt="Continuous learning"/>
 
 </td>
 </tr>
@@ -95,37 +95,37 @@ Uma seleção das ferramentas que utilizo e estudo durante meu desenvolvimento p
 
 **FRONTEND & INTERFACE**
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&amp;theme=dark" alt="Frontend technologies"/>
 
 <br/><br/>
 
 **BACKEND & DATABASE**
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,postgres&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,postgres&amp;theme=dark" alt="Backend technologies"/>
 
 <br/><br/>
 
 **TOOLS & WORKFLOW**
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&amp;theme=dark" alt="Development tools"/>
 
 <br/><br/>
 
 **EXPLORING NEXT**
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/GSAP-111525?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP"/>
-<img src="https://img.shields.io/badge/THREE.JS-111525?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-<img src="https://img.shields.io/badge/WEBGL-111525?style=for-the-badge&logo=webgl&logoColor=BCD3F6" alt="WebGL"/>
+<img src="https://img.shields.io/badge/GSAP-111525?style=for-the-badge&amp;logo=greensock&amp;logoColor=88CE02" alt="GSAP"/>
+<img src="https://img.shields.io/badge/THREE.JS-111525?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js"/>
+<img src="https://img.shields.io/badge/WEBGL-111525?style=for-the-badge&amp;logo=webgl&amp;logoColor=BCD3F6" alt="WebGL"/>
 
-<br/>
+<br/><br/>
 
 <sub>Technology is a tool. Building meaningful solutions is the goal.</sub>
 
@@ -141,7 +141,7 @@ Uma seleção das ferramentas que utilizo e estudo durante meu desenvolvimento p
 
 **Real projects. Practical engineering. Thoughtful experiences.**
 
-Uma seleção de projetos que representam minha evolução como desenvolvedor.
+Projetos que representam minha evolução como desenvolvedor.
 
 <br/>
 
@@ -153,11 +153,7 @@ Uma seleção de projetos que representam minha evolução como desenvolvedor.
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/django/44B78B" width="45" alt="Django"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" alt="PostgreSQL"/>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=django,postgres&amp;theme=dark" height="48" alt="Django and PostgreSQL"/>
 
 <h2>NEXUS ACADEMY</h2>
 
@@ -165,9 +161,11 @@ Uma seleção de projetos que representam minha evolução como desenvolvedor.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/01-FULL_STACK-244AE2?style=for-the-badge&labelColor=111525" alt="Full-stack"/>
+<img src="https://img.shields.io/badge/01-FULL_STACK-244AE2?style=for-the-badge&amp;labelColor=111525" alt="Full-stack project"/>
+
 <br/>
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-E6B84C?style=flat-square&labelColor=111525" alt="In development"/>
+
+<img src="https://img.shields.io/badge/IN_DEVELOPMENT-E6B84C?style=flat-square&amp;labelColor=111525" alt="In development"/>
 
 <br/><br/>
 
@@ -179,22 +177,22 @@ Plataforma acadêmica para centralizar o gerenciamento de alunos, professores, t
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-111525?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/Django-111525?style=flat-square&logo=django&logoColor=44B78B" alt="Django"/>
-<img src="https://img.shields.io/badge/Next.js-111525?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111525?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/TypeScript-111525?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-111525?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-111525?style=flat-square&amp;logo=django&amp;logoColor=44B78B" alt="Django"/>
+<img src="https://img.shields.io/badge/Next.js-111525?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111525?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/TypeScript-111525?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript"/>
 
 <br/><br/>
 
 <a href="https://github.com/ViniciusTeles06/nexus-academy">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-244AE2?style=for-the-badge&logo=github&logoColor=white" alt="Nexus Academy source code"/>
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-244AE2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Nexus Academy source"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://nexus-academy-woad.vercel.app/">
-  <img src="https://img.shields.io/badge/WEB_APPLICATION-151C33?style=for-the-badge&logo=vercel&logoColor=BCD3F6" alt="Nexus Academy application"/>
+  <img src="https://img.shields.io/badge/WEB_APPLICATION-111525?style=for-the-badge&amp;logo=vercel&amp;logoColor=BCD3F6" alt="Nexus Academy application"/>
 </a>
 
 <br/><br/>
@@ -204,11 +202,7 @@ Plataforma acadêmica para centralizar o gerenciamento de alunos, professores, t
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="45" alt="React"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/vite/646CFF" width="45" alt="Vite"/>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,vite&amp;theme=dark" height="48" alt="React and Vite"/>
 
 <h2>FINTRACK</h2>
 
@@ -216,13 +210,15 @@ Plataforma acadêmica para centralizar o gerenciamento de alunos, professores, t
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/02-WEB_APPLICATION-244AE2?style=for-the-badge&labelColor=111525" alt="Web application"/>
+<img src="https://img.shields.io/badge/02-WEB_APPLICATION-244AE2?style=for-the-badge&amp;labelColor=111525" alt="Web application"/>
+
 <br/>
-<img src="https://img.shields.io/badge/TYPE-FRONTEND_PROJECT-BCD3F6?style=flat-square&labelColor=111525" alt="Frontend project"/>
+
+<img src="https://img.shields.io/badge/FRONTEND_PROJECT-BCD3F6?style=flat-square&amp;labelColor=111525" alt="Frontend project"/>
 
 <br/><br/>
 
-Aplicação web voltada à organização de finanças pessoais, acompanhamento de transações e visualização de receitas e despesas.
+Aplicação web para organização de finanças pessoais, acompanhamento de transações e visualização de receitas e despesas.
 
 <br/><br/>
 
@@ -230,21 +226,21 @@ Aplicação web voltada à organização de finanças pessoais, acompanhamento d
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/React-111525?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Vite-111525?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
-<img src="https://img.shields.io/badge/Framer_Motion-111525?style=flat-square&logo=framer&logoColor=BB91FF" alt="Framer Motion"/>
-<img src="https://img.shields.io/badge/Context_API-111525?style=flat-square&logo=react&logoColor=61DAFB" alt="Context API"/>
+<img src="https://img.shields.io/badge/React-111525?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-111525?style=flat-square&amp;logo=vite&amp;logoColor=646CFF" alt="Vite"/>
+<img src="https://img.shields.io/badge/Framer_Motion-111525?style=flat-square&amp;logo=framer&amp;logoColor=BB91FF" alt="Framer Motion"/>
+<img src="https://img.shields.io/badge/Context_API-111525?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="Context API"/>
 
 <br/><br/>
 
 <a href="https://fintrack-nine-virid.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-244AE2?style=for-the-badge&logo=vercel&logoColor=white" alt="FinTrack live demo"/>
+  <img src="https://img.shields.io/badge/LIVE_DEMO-244AE2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="FinTrack live demo"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ViniciusTeles06/fintrack">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-151C33?style=for-the-badge&logo=github&logoColor=BCD3F6" alt="FinTrack source code"/>
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-111525?style=for-the-badge&amp;logo=github&amp;logoColor=BCD3F6" alt="FinTrack source"/>
 </a>
 
 <br/><br/>
@@ -258,7 +254,7 @@ Aplicação web voltada à organização de finanças pessoais, acompanhamento d
 <div align="center">
 
 <a href="https://github.com/ViniciusTeles06?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-244AE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-244AE2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore all repositories"/>
 </a>
 
 </div>
@@ -281,9 +277,9 @@ Aplicação web voltada à organização de finanças pessoais, acompanhamento d
 <tr>
 <td width="33%" valign="top" align="center">
 
-<h3>01 / STRUCTURE</h3>
+### 01 / STRUCTURE
 
-<img src="https://cdn.simpleicons.org/diagramsdotnet/7D9BFF" width="35" alt="Architecture"/>
+<img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="38" alt="Software architecture"/>
 
 <br/><br/>
 
@@ -294,9 +290,9 @@ Responsabilidades claras, código organizado e soluções que possam evoluir.
 </td>
 <td width="33%" valign="top" align="center">
 
-<h3>02 / EXPERIENCE</h3>
+### 02 / EXPERIENCE
 
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="35" alt="Design"/>
+<img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" width="38" alt="User experience"/>
 
 <br/><br/>
 
@@ -307,9 +303,9 @@ Interfaces intuitivas, consistentes e projetadas para pessoas reais.
 </td>
 <td width="33%" valign="top" align="center">
 
-<h3>03 / EVOLUTION</h3>
+### 03 / EVOLUTION
 
-<img src="https://cdn.simpleicons.org/git/F05032" width="35" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="38" alt="Continuous improvement"/>
 
 <br/><br/>
 
@@ -333,16 +329,17 @@ Experimentação, aprendizado e evolução constante das soluções.
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ViniciusTeles06&show_icons=true&hide_border=true&bg_color=111525&title_color=BCD3F6&text_color=F3F0E8&icon_color=5275FF" alt="GitHub statistics"/>
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeles06&layout=compact&hide_border=true&bg_color=111525&title_color=BCD3F6&text_color=F3F0E8" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ViniciusTeles06&amp;show_icons=true&amp;hide_border=true&amp;bg_color=111525&amp;title_color=BCD3F6&amp;text_color=F3F0E8&amp;icon_color=5275FF" alt="GitHub statistics"/>
+
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeles06&amp;layout=compact&amp;hide_border=true&amp;bg_color=111525&amp;title_color=BCD3F6&amp;text_color=F3F0E8" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ViniciusTeles06&hide_border=true&background=111525&ring=5275FF&fire=E6B84C&currStreakLabel=BCD3F6&sideLabels=F3F0E8&sideNums=F3F0E8&dates=9AAACB" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=ViniciusTeles06&amp;hide_border=true&amp;background=111525&amp;ring=5275FF&amp;fire=E6B84C&amp;currStreakLabel=BCD3F6&amp;sideLabels=F3F0E8&amp;sideNums=F3F0E8&amp;dates=9AAACB" alt="GitHub activity streak"/>
 
 <br/>
 
-<sub>Metrics reflect public GitHub activity and may depend on external services.</sub>
+<sub>Public GitHub activity · Statistics supplied by third-party services.</sub>
 
 </div>
 
@@ -364,27 +361,17 @@ Aberto a oportunidades profissionais, colaborações e conexões com pessoas apa
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/vinicius-teles-068a29360/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-244AE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111525" alt="Connect on LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/vinicius-teles-068a29360/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT_WITH_ME-244AE2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=111525" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://github.com/ViniciusTeles06"><img src="https://img.shields.io/badge/GitHub-EXPLORE_MY_CODE-244AE2?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=111525" alt="GitHub"/></a>
+&nbsp;
+<a href="mailto:vinicciusteles13@gmail.com"><img src="https://img.shields.io/badge/Email-LET'S_TALK-E6B84C?style=for-the-badge&amp;logo=gmail&amp;logoColor=111525&amp;labelColor=111525" alt="Email"/></a>
 
-<br/><br/>
-
-<a href="https://github.com/ViniciusTeles06">
-  <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_CODE-244AE2?style=for-the-badge&logo=github&logoColor=white&labelColor=111525" alt="Explore GitHub"/>
-</a>
-
-<br/><br/>
-
-<a href="mailto:vinicciusteles13@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-E6B84C?style=for-the-badge&logo=gmail&logoColor=111525&labelColor=111525" alt="Send email"/>
-</a>
-
-<br/><br/>
+<br/><br/><br/>
 
 **CODE WITH PURPOSE. DESIGN WITH INTENTION.**
 
-<br/>
+<br/><br/>
 
 <sub>VINÍCIUS TELES © 2026</sub>
 
