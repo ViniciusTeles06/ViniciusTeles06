@@ -1,22 +1,34 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Vinícius Teles — Software Developer"/>
+<img src="assets/hero.svg" width="100%" alt="Vinícius Teles | Software Developer"/>
 
 <br/>
 
 ### ENGINEERING IDEAS INTO DIGITAL EXPERIENCES.
 
-**Full-Stack Development · Software Engineering · Creative Web**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=6C8CFF&center=true&vCenter=true&width=650&lines=Designing+thoughtful+software+solutions.;Building+modern+full-stack+applications.;Exploring+interactive+web+experiences.;From+architecture+to+interface." alt="Animated developer introduction"/>
+**Full-Stack Development · Software Engineering · Creative Technology**
 
 <br/>
 
-[**EXPLORE MY WORK**](#03--selected-work) &nbsp;&nbsp;·&nbsp;&nbsp; [**CONNECT WITH ME**](#06--connect)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1100&color=7D9BFF&center=true&vCenter=true&width=750&lines=Designing+thoughtful+software+solutions.;Building+modern+full-stack+applications.;Exploring+immersive+web+experiences.;From+architecture+to+interface.;Turning+ideas+into+digital+products." alt="Developer introduction"/>
+
+<br/><br/>
+
+<a href="https://github.com/ViniciusTeles06?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-244AE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/vinicius-teles-068a29360/">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-151C33?style=for-the-badge&logo=linkedin&logoColor=BCD3F6" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ViniciusTeles06&label=PROFILE+VIEWS&color=244AE2&style=flat-square" alt="Profile views"/>
 
 <br/>
 
-<sub>BASED IN BRAZIL &nbsp; / &nbsp; BUILDING FOR THE WEB</sub>
+<sub>BASED IN BRAZIL · BUILDING FOR THE WEB</sub>
 
 </div>
 
@@ -26,32 +38,44 @@
 
 ### Software is more than code.
 
-Sou **Vinícius Teles**, estudante de Ciência da Computação e desenvolvedor focado em construir aplicações modernas, funcionais e bem estruturadas.
+Sou **Vinícius Teles**, estudante de Ciência da Computação e desenvolvedor focado na construção de aplicações modernas, funcionais e bem estruturadas.
 
 Meu interesse está na interseção entre **engenharia de software, desenvolvimento full-stack e experiência do usuário**.
 
-Gosto de explorar como boas decisões arquiteturais, interfaces bem projetadas e tecnologias modernas podem transformar ideias em produtos digitais reais.
+Busco transformar ideias em produtos digitais, trabalhando desde a organização da arquitetura até a implementação de interfaces intuitivas.
 
-Atualmente, meu principal projeto é o **Nexus Academy**, uma plataforma acadêmica full-stack.
+Atualmente, estou desenvolvendo o **Nexus Academy**, explorando novas tecnologias e aprofundando meus conhecimentos em aplicações web e experiências interativas.
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**CURRENTLY BUILDING**
+### CURRENTLY BUILDING
 
-Nexus Academy
+**Nexus Academy**
 
-Plataforma de gerenciamento acadêmico.
+Plataforma full-stack de gerenciamento acadêmico.
+
+`Django` · `Next.js` · `PostgreSQL`
+
+<a href="https://github.com/ViniciusTeles06/nexus-academy">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-244AE2?style=flat-square&logo=github&logoColor=white" alt="Explore Nexus Academy"/>
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**CURRENTLY EXPLORING**
+### CURRENTLY EXPLORING
 
-Creative Development
+**Creative Development**
 
-GSAP · Three.js · WebGL
+Experiências web com animações avançadas e interatividade.
+
+`GSAP` · `Three.js` · `WebGL`
+
+<img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-151C33?style=flat-square&logo=bookstack&logoColor=BCD3F6" alt="Continuous learning"/>
 
 </td>
 </tr>
@@ -61,124 +85,237 @@ GSAP · Three.js · WebGL
 
 ## 02 / THE TOOLKIT
 
-### Technologies behind the work.
+<div align="center">
 
-Ferramentas e tecnologias com as quais desenvolvo, estudo e experimento.
+### TECHNOLOGIES BEHIND THE WORK.
 
-**INTERFACE & FRONTEND**
+Uma seleção das ferramentas que utilizo e estudo durante meu desenvolvimento profissional.
 
-<p>
+<br/>
+
+**FRONTEND & INTERFACE**
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="Frontend technologies"/>
-</p>
 
-**BACKEND & DATA**
+<br/><br/>
 
-<p>
+**BACKEND & DATABASE**
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,postgres&theme=dark" alt="Backend technologies"/>
-</p>
 
-**ENGINEERING WORKFLOW**
+<br/><br/>
 
-<p>
+**TOOLS & WORKFLOW**
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" alt="Development tools"/>
-</p>
 
-**ON MY RADAR**
+<br/><br/>
 
-`GSAP` &nbsp; `Three.js` &nbsp; `React Three Fiber` &nbsp; `WebGL` &nbsp; `Advanced UI Motion`
+**EXPLORING NEXT**
 
-> Learning new technologies with a focus on real-world applications, not just collecting tools.
+<br/>
+
+<img src="https://img.shields.io/badge/GSAP-111525?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP"/>
+<img src="https://img.shields.io/badge/THREE.JS-111525?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+<img src="https://img.shields.io/badge/WEBGL-111525?style=for-the-badge&logo=webgl&logoColor=BCD3F6" alt="WebGL"/>
+
+<br/>
+
+<sub>Technology is a tool. Building meaningful solutions is the goal.</sub>
+
+</div>
 
 ---
 
 ## 03 / SELECTED WORK
 
-### Products, systems & experiments.
+<div align="center">
 
-Projetos que representam minha evolução técnica e a maneira como transformo ideias em software.
+### PRODUCTS, SYSTEMS & EXPERIMENTS.
 
-### 001 — NEXUS ACADEMY
+**Real projects. Practical engineering. Thoughtful experiences.**
 
-**Academic Management Platform**
+Uma seleção de projetos que representam minha evolução como desenvolvedor.
 
-`ACTIVE DEVELOPMENT` &nbsp; · &nbsp; `FULL-STACK`
+<br/>
 
-Uma plataforma de gerenciamento acadêmico projetada para centralizar informações e processos educacionais em um único sistema.
+</div>
 
-**THE IDEA**
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-Simplificar a gestão de alunos, professores, turmas, disciplinas e processos acadêmicos com uma aplicação organizada, extensível e intuitiva.
+<br/>
 
-**ENGINEERING APPROACH**
+<img src="https://cdn.simpleicons.org/django/44B78B" width="45" alt="Django"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" alt="PostgreSQL"/>
 
-- API REST estruturada com Django REST Framework.
-- Persistência de dados utilizando PostgreSQL.
-- Interface web desenvolvida com Next.js e TypeScript.
-- Organização das responsabilidades entre backend e frontend.
-- Evolução incremental de funcionalidades e regras de negócio.
+<br/><br/>
 
-**STACK**
+<h2>NEXUS ACADEMY</h2>
 
-`Python` `Django` `DRF` `PostgreSQL` `Next.js` `TypeScript`
+<strong>Academic Management Platform</strong>
 
-[**VIEW SOURCE ↗**](https://github.com/ViniciusTeles06/nexus-academy) &nbsp; · &nbsp; [**WEB APPLICATION ↗**](https://nexus-academy-woad.vercel.app/)
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/01-FULL_STACK-244AE2?style=for-the-badge&labelColor=111525" alt="Full-stack"/>
+<br/>
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-E6B84C?style=flat-square&labelColor=111525" alt="In development"/>
 
-### 002 — FINTRACK
+<br/><br/>
 
-**Personal Finance Management**
+Plataforma acadêmica para centralizar o gerenciamento de alunos, professores, turmas, disciplinas e processos educacionais.
 
-`WEB APPLICATION` &nbsp; · &nbsp; `FRONTEND`
+<br/><br/>
 
-Aplicação web voltada ao controle financeiro pessoal, com foco em visualização de dados, organização de transações e experiência do usuário.
+<strong>ENGINEERING STACK</strong>
 
-**THE IDEA**
+<br/><br/>
 
-Transformar informações financeiras em uma experiência clara, acessível e fácil de utilizar.
+<img src="https://img.shields.io/badge/Python-111525?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-111525?style=flat-square&logo=django&logoColor=44B78B" alt="Django"/>
+<img src="https://img.shields.io/badge/Next.js-111525?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111525?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/TypeScript-111525?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
 
-**IMPLEMENTATION HIGHLIGHTS**
+<br/><br/>
 
-- Dashboard com gráficos de receitas e despesas.
-- Gerenciamento e filtragem de transações.
-- Acompanhamento de metas financeiras.
-- Fluxos de autenticação e rotas protegidas.
-- Alternância entre temas claro e escuro.
-- Design responsivo.
+<a href="https://github.com/ViniciusTeles06/nexus-academy">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-244AE2?style=for-the-badge&logo=github&logoColor=white" alt="Nexus Academy source code"/>
+</a>
 
-**STACK**
+<br/>
 
-`React` `Vite` `Framer Motion` `Context API`
+<a href="https://nexus-academy-woad.vercel.app/">
+  <img src="https://img.shields.io/badge/WEB_APPLICATION-151C33?style=for-the-badge&logo=vercel&logoColor=BCD3F6" alt="Nexus Academy application"/>
+</a>
 
-[**LIVE APPLICATION ↗**](https://fintrack-nine-virid.vercel.app/) &nbsp; · &nbsp; [**VIEW SOURCE ↗**](https://github.com/ViniciusTeles06/fintrack)
+<br/><br/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="45" alt="React"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="45" alt="Vite"/>
+
+<br/><br/>
+
+<h2>FINTRACK</h2>
+
+<strong>Personal Finance Dashboard</strong>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/02-WEB_APPLICATION-244AE2?style=for-the-badge&labelColor=111525" alt="Web application"/>
+<br/>
+<img src="https://img.shields.io/badge/TYPE-FRONTEND_PROJECT-BCD3F6?style=flat-square&labelColor=111525" alt="Frontend project"/>
+
+<br/><br/>
+
+Aplicação web voltada à organização de finanças pessoais, acompanhamento de transações e visualização de receitas e despesas.
+
+<br/><br/>
+
+<strong>ENGINEERING STACK</strong>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-111525?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-111525?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
+<img src="https://img.shields.io/badge/Framer_Motion-111525?style=flat-square&logo=framer&logoColor=BB91FF" alt="Framer Motion"/>
+<img src="https://img.shields.io/badge/Context_API-111525?style=flat-square&logo=react&logoColor=61DAFB" alt="Context API"/>
+
+<br/><br/>
+
+<a href="https://fintrack-nine-virid.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-244AE2?style=for-the-badge&logo=vercel&logoColor=white" alt="FinTrack live demo"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/ViniciusTeles06/fintrack">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-151C33?style=for-the-badge&logo=github&logoColor=BCD3F6" alt="FinTrack source code"/>
+</a>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/ViniciusTeles06?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-244AE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+</a>
+
+</div>
 
 ---
 
 ## 04 / ENGINEERING MINDSET
 
-### The way I approach development.
+<div align="center">
+
+### HOW I APPROACH SOFTWARE.
+
+*Thoughtful engineering creates better digital products.*
+
+<br/>
+
+</div>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**01 — STRUCTURE**
+<h3>01 / STRUCTURE</h3>
 
-Arquitetura organizada, responsabilidades claras e código que possa evoluir.
+<img src="https://cdn.simpleicons.org/diagramsdotnet/7D9BFF" width="35" alt="Architecture"/>
+
+<br/><br/>
+
+**Architecture & Organization**
+
+Responsabilidades claras, código organizado e soluções que possam evoluir.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**02 — EXPERIENCE**
+<h3>02 / EXPERIENCE</h3>
 
-Interfaces intuitivas, acessíveis e pensadas para pessoas reais.
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="35" alt="Design"/>
+
+<br/><br/>
+
+**User-Centered Thinking**
+
+Interfaces intuitivas, consistentes e projetadas para pessoas reais.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**03 — EVOLUTION**
+<h3>03 / EVOLUTION</h3>
 
-Melhoria contínua por meio de estudo, prática e experimentação.
+<img src="https://cdn.simpleicons.org/git/F05032" width="35" alt="Git"/>
+
+<br/><br/>
+
+**Continuous Improvement**
+
+Experimentação, aprendizado e evolução constante das soluções.
 
 </td>
 </tr>
@@ -188,44 +325,71 @@ Melhoria contínua por meio de estudo, prática e experimentação.
 
 ## 05 / DEVELOPMENT ACTIVITY
 
-### Work in progress. Always evolving.
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniciusTeles06&show_icons=true&hide_border=true&bg_color=111525&title_color=BCD3F6&text_color=F3F0E8&icon_color=5275FF" alt="GitHub statistics"/>
+### MY DEVELOPMENT JOURNEY.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeles06&layout=compact&hide_border=true&bg_color=111525&title_color=BCD3F6&text_color=F3F0E8" alt="Most used languages"/>
+**Code. Experiment. Improve. Repeat.**
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ViniciusTeles06&hide_border=true&background=111525&ring=5275FF&fire=E6B84C&currStreakLabel=BCD3F6&sideLabels=F3F0E8&sideNums=F3F0E8&dates=9AAACB" alt="GitHub contribution activity"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ViniciusTeles06&show_icons=true&hide_border=true&bg_color=111525&title_color=BCD3F6&text_color=F3F0E8&icon_color=5275FF" alt="GitHub statistics"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeles06&layout=compact&hide_border=true&bg_color=111525&title_color=BCD3F6&text_color=F3F0E8" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=ViniciusTeles06&hide_border=true&background=111525&ring=5275FF&fire=E6B84C&currStreakLabel=BCD3F6&sideLabels=F3F0E8&sideNums=F3F0E8&dates=9AAACB" alt="GitHub contribution streak"/>
+
+<br/>
+
+<sub>Metrics reflect public GitHub activity and may depend on external services.</sub>
 
 </div>
 
 ---
 
-## 06 / CONNECT
+## 06 / LET'S CONNECT
 
 <div align="center">
 
+<br/>
+
 ### HAVE SOMETHING IN MIND?
 
-**Let's turn an idea into something worth building.**
+## LET'S BUILD SOMETHING REMARKABLE.
 
-Aberto a conexões, colaborações e oportunidades na área de desenvolvimento de software.
+**Great digital experiences begin with thoughtful engineering.**
+
+Aberto a oportunidades profissionais, colaborações e conexões com pessoas apaixonadas por tecnologia.
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/vinicius-teles-068a29360/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-244AE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111525" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ViniciusTeles06">
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_CODE-244AE2?style=for-the-badge&logo=github&logoColor=white&labelColor=111525" alt="Explore GitHub"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:vinicciusteles13@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-E6B84C?style=for-the-badge&logo=gmail&logoColor=111525&labelColor=111525" alt="Send email"/>
+</a>
+
+<br/><br/>
+
+**CODE WITH PURPOSE. DESIGN WITH INTENTION.**
 
 <br/>
-
-[**LINKEDIN ↗**](https://www.linkedin.com/in/vinicius-teles-068a29360/) &nbsp; / &nbsp; [**GITHUB ↗**](https://github.com/ViniciusTeles06) &nbsp; / &nbsp; [**EMAIL ↗**](mailto:vinicciusteles13@gmail.com)
-
-<br/>
-
----
 
 <sub>VINÍCIUS TELES © 2026</sub>
 
 <br/>
 
-<sub>BUILT WITH INTENTION. DRIVEN BY CURIOSITY.</sub>
+<sub>BUILT WITH CURIOSITY. REFINED THROUGH PRACTICE.</sub>
 
 </div>
